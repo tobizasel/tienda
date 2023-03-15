@@ -1,0 +1,21 @@
+[{
+    "id": 1, "nombre": "remera de minecraft", "precio": 500, "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonic-remeras.com.ar%2Fproductos%2Fremera-gamers-minecraft-con-creeper%2F&psig=AOvVaw0GQOyO8klP16_QS5oCqsEd&ust=1678987202025000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCf9u-43v0CFQAAAAAdAAAAABAM"
+},
+{
+    "id": 2, "nombre": "remera loca", "precio": 700, "imagen": "url"
+},
+{
+    "id": 3, "nombre": "gorra de creeper", "precio": 200, "imagen": "url"
+},
+{
+    "id": 4, "nombre": "AR-15", "precio": 2500, "imagen": "url"
+},
+{
+    "id": 5, "nombre": "peluca de goku", "precio": 2500, "imagen": "url"
+},
+{
+    "id": 6, "nombre": "camiseta de boca", "precio": 7, "imagen": "url"
+}
+
+
+]
